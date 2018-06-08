@@ -4,7 +4,7 @@ This is the buildsystem for the OpenWrt Linux distribution.
 
 编译命令如下:
 
-1. 首先装好 Ubuntu 64bit，推荐  Ubuntu  14 LTS x64
+1. 首先装好 Ubuntu 64bit，推荐  Ubuntu  14 LTS x64   磁盘空间>20G
 
 2. 新建非root用户
 adduser username
